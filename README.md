@@ -1,4 +1,4 @@
-# Aplikasi Penerimaan Siswa Baru (PPDB) - Dokumentasi Lengkap
+# Aplikasi Penerimaan Siswa Baru (PPDB)
 
 ## Gambaran Umum
 Aplikasi Penerimaan Siswa Baru (PPDB) adalah sistem terkomputerisasi yang dirancang untuk mengelola proses penerimaan siswa baru di institusi pendidikan. Sistem ini menyederhanakan proses pendaftaran, seleksi, dan pengumuman hasil bagi calon siswa serta memberikan alat manajemen yang komprehensif bagi administrator.
